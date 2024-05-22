@@ -1,1 +1,2 @@
-It's good time to start learning Git.
+It's a good time to start learning Git.
+Every coincidence leads me to another world.
